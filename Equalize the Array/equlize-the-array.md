@@ -1,4 +1,4 @@
-**Link** https://www.hackerrank.com/challenges/equality-in-a-array/copy-from/274098407
+**Link** https://www.hackerrank.com/challenges/equality-in-a-array/problem
 
 `` Here we need to delete maximum number of element present in the array ``
 

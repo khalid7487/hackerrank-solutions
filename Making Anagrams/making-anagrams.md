@@ -1,3 +1,5 @@
+**Link** https://www.hackerrank.com/challenges/making-anagrams/problem
+
 ## here we need to delete element count which is not matches 
 
      

@@ -1,4 +1,4 @@
-**Link** https://www.hackerrank.com/challenges/strange-advertising/copy-from/274060235
+**Link** https://www.hackerrank.com/challenges/strange-advertising/problem
 ## Viral advertising is problem where we basically need to calculate cumulative numbers
 
 `` When they launched new product they have exactly 5 people on social media. ``
