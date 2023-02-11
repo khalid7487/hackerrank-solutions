@@ -1,6 +1,6 @@
 const wordBreak = (s, wordDict, memo ={}) =>{
    
-    // If we have s stored in memo return its value
+// If we have s stored in memo return its value
  if(memo[s]!==undefined) return memo[s]
  // We can always make and empty string 
  if(s.length===0) return true   
